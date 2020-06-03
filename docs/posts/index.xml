@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>https://wenyun-tan.github.io/musings/posts/</link>
-    <description>My New Hugo Site (Posts)</description>
+    <title>Posts on W writes.</title>
+    <link>https://wenyun-tan.github.io/posts/</link>
+    <description>W writes. (Posts)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 03 Jun 2020 17:16:33 +0800</lastBuildDate>
     
-    <atom:link href="https://wenyun-tan.github.io/musings/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://wenyun-tan.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Post</title>
-      <link>https://wenyun-tan.github.io/musings/posts/my-first-post/</link>
+      <link>https://wenyun-tan.github.io/posts/my-first-post/</link>
       <pubDate>Wed, 03 Jun 2020 17:16:33 +0800</pubDate>
       
-      <guid>https://wenyun-tan.github.io/musings/posts/my-first-post/</guid>
+      <guid>https://wenyun-tan.github.io/posts/my-first-post/</guid>
       <description>&lt;p&gt;Hello World!&lt;/p&gt;
 </description>
     </item>
