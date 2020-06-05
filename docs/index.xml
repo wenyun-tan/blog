@@ -6,15 +6,65 @@
     <description>Writings.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2020 00:00:00 +0000</lastBuildDate>
     
     <atom:link href="https://wenyun-tan.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Loading... video streaming wars in Singapore</title>
+      <link>https://wenyun-tan.github.io/blog/posts/04-digital/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenyun-tan.github.io/blog/posts/04-digital/</guid>
+      <description>&lt;p&gt;Just a few days ago, Singaporean cable TV providers announced the removal of Disney channels from their bundles, probably invoking much dismay (especially when TV plays an important part in keeping children entertained with disproportionate stay-home time). This move, however, heralds a new age for the Disney media empire, with its upcoming launch of Disney+.&lt;/p&gt;
+&lt;p&gt;Disney has already made an initial foray (ignoring VPNs) into the OTT video space in Singapore: it made Hotstar available to migrant workers in early May, allowing free access to a wealth of South Asian content&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;. Following a similar preparation window as observed in the UK &lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;, we can possibly expect to see Disney+ enter the Singapore market in 3-4 months.&lt;/p&gt;
+&lt;p&gt;Getting the price right is highly challenging - especially when most adult consumers today have been raised on a diet of free content on YouTube and (unfortunately) pirate sites. Resistance towards paying is fairly common in the Singapore market: a pre-Netflix era study by IMDA showed &amp;gt;75% of respondents would not consider paying for online video in the future [^3]. In a more recent Brightcove study [^4], almost 50% are not willing to pay (with or without ads); only 10% are open to a pure SVOD model. Even if an intermediate hybrid model of paying a lower subscription fee for some ads is offered, &amp;gt;50% of Singaporean respondents&lt;/p&gt;
+&lt;p&gt;Will Disney+&#39;s single-tier pricing strategy work in Singapore? Lower price point vs. Netflix might provide stronger push for customers to try the platform; but, Netflix has actually increased its prices earlier this year [^5], demonstrating high level of confidence in the attractiveness of its content offer and user stickiness (or inertia). Disney might be able to achieve the same or even better given the strength of its content portfolio - initial responses to Disney&amp;rsquo;s content in the States showed a greater focus on its library content [^6]. Nostalgia value perhaps, especially for adults who watched Disney&amp;rsquo;s classic animated features like Lion King or Little Mermaid while growing up. (I did, and I am all prepared to relive the animated Mulan experience before watching the live-action version.)&lt;/p&gt;
+&lt;p&gt;But rather than a race to the bottom, it might be interesting if something similar to Hulu&amp;rsquo;s hybrid SVOD/AVOD tiers is introduced after a &amp;ldquo;soft&amp;rdquo; launch in the market. In particular, some of Hulu&amp;rsquo;s more innovative ad formats might make the AVOD experience much more palatable to Singaporeans. For instance - giving viewers a choice over what types of ads they will like to see, or the option to binge watch ads at the beginning vs. standard commercial breaks [^7]. These might prove highly appealling to Singaporean consumers with generally lower ad exposure tolerance than their regional peers [^4].&lt;/p&gt;
+&lt;p&gt;Who&amp;rsquo;s up for Disney+?&lt;/p&gt;
+&lt;p&gt;Till then.&lt;/p&gt;
+&lt;p&gt;[4]: &lt;a href=&#34;XXX&#34;&gt;Brightcove Asia OTT Research Report 2019&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[5]: &lt;a href=&#34;https://www.straitstimes.com/lifestyle/entertainment/price-hike-for-netflix-services-in-singapore&#34;&gt;Straits Times&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[6]: &lt;a href=&#34;https://www.hollywoodreporter.com/news/disney-subscribers-say-theyre-watching-more-classic-films-star-wars-1263146&#34;&gt;Hollywood Reporter&lt;/a&gt;
+&lt;em&gt;P.S. They have a very comprehensive breakdown of the survey results by questions and consumer segments - pretty fascinating to look through.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;US: pulled shows in phasal approach in months before launching in Nov 2019
+&lt;a href=&#34;https://www.fastcompany.com/90427790/disneys-cable-viewers-say-on-demand-content-is-disappearing-a-week-before-disney-launch&#34;&gt;https://www.fastcompany.com/90427790/disneys-cable-viewers-say-on-demand-content-is-disappearing-a-week-before-disney-launch&lt;/a&gt;&lt;/p&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://cnalifestyle.channelnewsasia.com/trending/disney-free-streaming-service-hotstar-migrant-workers-singapore-12699664&#34;&gt;Channel NewsAsia&lt;/a&gt; &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.theguardian.com/media/2019/dec/26/disney-pulls-shows-from-sky-as-it-prepares-for-uk-streaming-debut&#34;&gt;The Guardian&lt;/a&gt;, &lt;a href=&#34;https://techcrunch.com/2020/03/24/with-lower-bandwidth-disney-opens-streaming-service-in-uk-ireland-5-other-european-countries-france-to-come-online-april-7/&#34;&gt;TechCrunch&lt;/a&gt; &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://wenyun-tan.github.io/blog/about/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenyun-tan.github.io/blog/about/</guid>
+      <description>&lt;p&gt;It took 3 years for me to get to this point.&lt;/p&gt;
+&lt;p&gt;I first started writing on Medium, left it to drift into one of my ideas-never-fully-realised black holes. I then took to Goodreads, initiated a very ambitious 18-book challenge, but ended up with zero entries. On some days, I found it hard to sleep because my mind was running through ideas I had from the day, and how I would flesh them out in writing. But nothing. Why?&lt;/p&gt;
+&lt;p&gt;I was (and am) a perfectionist. I wanted to achieve my ideal - the Atlantics, the Brain Pickings - in one single step. Nothing I wrote ever felt &lt;em&gt;good enough&lt;/em&gt;, &lt;em&gt;looked the part&lt;/em&gt;, or &lt;em&gt;sounded&lt;/em&gt; like the ideals I wanted.&lt;/p&gt;
+&lt;p&gt;Finding one&amp;rsquo;s voice can be a long journey.&lt;/p&gt;
+&lt;p&gt;Putting one&amp;rsquo;s thoughts out there on the interwebs does take quite a bit of courage.&lt;/p&gt;
+&lt;p&gt;But you can&amp;rsquo;t get any better until you put pen to paper, and &lt;strong&gt;take that first step&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Inspired by the approach of design thinking to Think, Make, Break, Repeat - here&amp;rsquo;s my first &lt;em&gt;baby&lt;/em&gt; step.
+A collection of short essays / responses to books I&amp;rsquo;ve read, my personal projects, and anything I&amp;rsquo;m currently curious about.&lt;/p&gt;
+&lt;p&gt;Happy to stay in touch on &lt;a href=&#34;https://www.linkedin.com/in/wenyuntan/&#34;&gt;LinkedIn&lt;/a&gt; or &lt;a href=&#34;https://github.com/wenyun-tan&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Test: Consultant == Coder</title>
       <link>https://wenyun-tan.github.io/blog/posts/03-personal-projects-python/</link>
-      <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://wenyun-tan.github.io/blog/posts/03-personal-projects-python/</guid>
       <description>&lt;p&gt;As a strategy consultant focused on digital, I&amp;rsquo;m constantly amazed by how quickly and how much digital innovations have shaped our lives. Could you imagine going through COVID-19 lockdown with nothing but an analog telephone or snail mail? Anyhow, over the last few years, I&amp;rsquo;ve developed a deeper interest in what makes all things digital possible. Step 1 - how do you get a computer to do what you want it to?&lt;/p&gt;
@@ -34,24 +84,6 @@
 &lt;p&gt;Coding is exactly the same - once you nail the basics, your ship has set sail. You learn by starting to build something - maybe a mini sudoku program, or a telegram bot - and you figure your way there, step by step. It&amp;rsquo;s a process of discovery, fuelled by an eagerness to produce something tangible that can do what you want it to. And as you progress, you start thinking of new features / functionalities you will like, and the process of discovery continues.&lt;/p&gt;
 &lt;p&gt;If you found the above monologue sufficiently convincing - that coding is not rocket science - I hope you will give it a go! Personally, as a strategy consultant, I firmly believe that being able to write code is the next big step, and a highly essential one, as we interact with much more substantial datasets and more creative ways to present our insights. Who knows - one day we wouldn&amp;rsquo;t be presenting on slides, but presenting with interactive visualisations that could allow us to roll through 50 different scenarios in real-time!&lt;/p&gt;
 &lt;p&gt;Till then.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://wenyun-tan.github.io/blog/about/</link>
-      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://wenyun-tan.github.io/blog/about/</guid>
-      <description>&lt;p&gt;It took 3 years for me to get to this point.&lt;/p&gt;
-&lt;p&gt;I first started writing on Medium, left it to drift into one of my ideas-never-fully-realised black holes. I then took to Goodreads, initiated a very ambitious 18-book challenge, but ended up with zero entries. On some days, I found it hard to sleep because my mind was running through ideas I had from the day, and how I would flesh them out in writing. But nothing. Why?&lt;/p&gt;
-&lt;p&gt;I was (and am) a perfectionist. I wanted to achieve my ideal - the Atlantics, the Brain Pickings - in one single step. Nothing I wrote ever felt &lt;em&gt;good enough&lt;/em&gt;, &lt;em&gt;looked the part&lt;/em&gt;, or &lt;em&gt;sounded&lt;/em&gt; like the ideals I wanted.&lt;/p&gt;
-&lt;p&gt;Finding one&amp;rsquo;s voice can be a long journey.&lt;/p&gt;
-&lt;p&gt;Putting one&amp;rsquo;s thoughts out there on the interwebs does take quite a bit of courage.&lt;/p&gt;
-&lt;p&gt;But you can&amp;rsquo;t get any better until you put pen to paper, and &lt;strong&gt;take that first step&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Inspired by the approach of design thinking to Think, Make, Break, Repeat - here&amp;rsquo;s my first &lt;em&gt;baby&lt;/em&gt; step.
-A collection of short essays / responses to books I&amp;rsquo;ve read, my personal projects, and anything I&amp;rsquo;m currently curious about.&lt;/p&gt;
-&lt;p&gt;Happy to stay in touch on &lt;a href=&#34;https://www.linkedin.com/in/wenyuntan/&#34;&gt;LinkedIn&lt;/a&gt; or &lt;a href=&#34;https://github.com/wenyun-tan&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-</description>
     </item>
     
     <item>
